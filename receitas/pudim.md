@@ -1,3 +1,0 @@
-# Pudim #
-
-:chart:
